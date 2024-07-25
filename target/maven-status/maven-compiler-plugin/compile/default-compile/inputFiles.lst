@@ -1,0 +1,8 @@
+/home/harshangprajapati/org/rydotintuit/newProjects/scalaplay/usermanagement/src/main/java/com/user/usermanagement/repository/UserRepository.java
+/home/harshangprajapati/org/rydotintuit/newProjects/scalaplay/usermanagement/src/main/java/com/user/usermanagement/filter/SecurityConfig.java
+/home/harshangprajapati/org/rydotintuit/newProjects/scalaplay/usermanagement/src/main/java/com/user/usermanagement/controlller/UserController.java
+/home/harshangprajapati/org/rydotintuit/newProjects/scalaplay/usermanagement/src/main/java/com/user/usermanagement/UserManagementApplication.java
+/home/harshangprajapati/org/rydotintuit/newProjects/scalaplay/usermanagement/src/main/java/com/user/usermanagement/model/User.java
+/home/harshangprajapati/org/rydotintuit/newProjects/scalaplay/usermanagement/src/main/java/com/user/usermanagement/exception/GlobalExceptionHandler.java
+/home/harshangprajapati/org/rydotintuit/newProjects/scalaplay/usermanagement/src/main/java/com/user/usermanagement/service/UserService.java
+/home/harshangprajapati/org/rydotintuit/newProjects/scalaplay/usermanagement/src/main/java/com/user/usermanagement/utils/AdminDataInitializer.java
